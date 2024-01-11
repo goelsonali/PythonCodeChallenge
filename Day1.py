@@ -19,7 +19,15 @@ display("Before Swap", a, b)
 values_after_swap = swap(a, b)
 display("After Swap ", values_after_swap[0], values_after_swap[1])
 
+s = "Happy"
+t = "Fun"
+
+display("Before Swap", s, t)
+values_after_swap = swap(s, t)
+display("After Swap ", values_after_swap[0], values_after_swap[1])
 
 # Output :
 # Before Swap  a, b = (5, 50)
 # After Swap   a, b = (50, 5)
+# Before Swap  a, b = ('Happy', 'Fun')
+# After Swap   a, b = ('Fun', 'Happy')
