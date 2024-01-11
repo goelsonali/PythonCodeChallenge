@@ -24,3 +24,13 @@ print(f'The result of the evaluation is : {evaluate(int(input("Enter the number 
 # Write a Python program that returns a string that is n (non-negative integer) copies of a given string.
 
 print(str(int(input("Enter no of copies : ")) * input("For this string")))
+
+
+# OUTPUT
+# Enter radius of a circle : 5
+# Area of a circle with radius  5 is : 78.5
+# Enter the number for evaluation : -9
+# The result of the evaluation is : 26
+# Enter no of copies : 6
+# For this string bk
+# bkbkbkbkbkbk
