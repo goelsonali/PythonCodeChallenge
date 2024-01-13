@@ -26,7 +26,7 @@ def count_vowels(input_string):
 
 
 # Function invocation
-input_user = input('Enter any string to count the vowels :')
-print(f'The no. of vowels in the provided string are : {count_vowels(input_user)}')
-
+if __name__ == "__main__":
+    input_user = input('Enter any string to count the vowels :')
+    print(f'The no. of vowels in the provided string are : {count_vowels(input_user)}')
 
