@@ -13,7 +13,7 @@
 
 def sum_all_elements(list_to_evaluate):
     result = 0
-    for i in range(0, len(list_to_evaluate)):
+    for i in range(len(list_to_evaluate)):
         if isinstance(list_to_evaluate[i], int) or isinstance(list_to_evaluate[i], float):
             result += list_to_evaluate[i]
     return result
