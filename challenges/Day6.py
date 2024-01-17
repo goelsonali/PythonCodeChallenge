@@ -29,3 +29,9 @@ if __name__ == '__main__':
     counts = count_characters(input("Enter the input string : "))
     print(f'Counts of characters in the string are : {counts}')
 
+    new_string = input('Enter the new input string : ')
+    input_symbol = input('Enter the character to be counted : ')
+    print(f'Count for the character {input_symbol} in the string {new_string}  : {new_string.count(input_symbol)}')
+
+
+
