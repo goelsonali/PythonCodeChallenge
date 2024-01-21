@@ -6,18 +6,23 @@
 # 3. Check for any string/float type.
 
 def print_multiplication_table(input_number):
+    result = ''
     if isinstance(input_number, int):
-        i = 1
-        while i <= 10:
-            print(f'{input_number} X {i}   = {input_number * i}')
-            i += 1
+        if input_number > 1:
+            i = 1
+            while i <= 10:
+                result += f'{input_number} X {i}   = {input_number * i}\n'
+                i += 1
+        else:
+            result = 'Enter number greater than 1'
     else:
-        print('Incorrect input type')
+        result = 'Incorrect input type'
+    return result
 
 
 if __name__ == '__main__':
-    print_multiplication_table(12)
-    print_multiplication_table('12')
+    print(print_multiplication_table(12))
+    print(print_multiplication_table('12'))
 
 # Sample Output:
 # 12 X 1   = 12
