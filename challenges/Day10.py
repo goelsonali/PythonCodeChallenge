@@ -1,4 +1,4 @@
-# Write a program to remove duplicate from a list
+# Write a program to remove duplicate from a list.
 
 
 # Test Cases :
