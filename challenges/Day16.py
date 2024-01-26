@@ -6,6 +6,7 @@
 # 2. Check for only uppercase words and digits.
 # 3. Check for input if not string return error message.
 # 4. Check for empty string.
+# 5. Check for additional spaces.
 
 
 def count_words(input_sentence):

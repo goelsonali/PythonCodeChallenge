@@ -10,6 +10,7 @@ from challenges.Day16 import count_words
 # 2. Check for only uppercase words and digits.
 # 3. Check for input if not string return error message.
 # 4. Check for empty string.
+# 5. Check for additional spaces.
 
 
 def test_count_word():
@@ -29,3 +30,7 @@ def test_count_word():
     # Test4 :
     expected_result = 'Input is an empty string'
     assert expected_result == count_words('')
+
+    # Test5 :
+    expected_result = {'I': 1, 'am': 1, 'in': 2, 'PYTHON': 1, 'are': 1, 'you': 1, 'it': 1, '?': 1}
+    assert expected_result == count_words('I am     in PYTHON are    you in it ?')
