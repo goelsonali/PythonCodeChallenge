@@ -17,3 +17,4 @@ Day13   : Write a program to shuffle the elements of a list randomly.
 Day14   : Write a program to print the first n numbers of a Fibonacci sequence.
 Day15   : Create a program that checks if a year is a leap year.
 Day16   : Write a function that counts the frequency of each word in a sentence.
+Day17   : Create a program that capitalizes the first letter of each word in a sentence.
