@@ -18,6 +18,8 @@ if __name__ == '__main__':
     in_set = {'abc', '1', '2', 45}
     element_to_remove = 45
     print(f' After removing the element - {element_to_remove} from set - {in_set}\n result is : {remove_element(in_set, element_to_remove)}')
+    in_set.discard('abc')
+    print(f'{in_set}')
 
 
 # Sample Output :
