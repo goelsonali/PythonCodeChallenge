@@ -19,6 +19,5 @@ if __name__ == '__main__':
     input_list = [5.1, 2.0, 4, 28, 'a', 'b']
     print(f'Resulted list : {get_list_even(input_list)}')
 
-
 # Sample output:
 # Resulted list : [4, 28]
