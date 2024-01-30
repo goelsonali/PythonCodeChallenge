@@ -21,3 +21,4 @@ Day17   : Create a program that capitalizes the first letter of each word in a s
 Day18   : Create a program to find the largest among three numbers.
 Day19   : Write a function to calculate the factorial of a number.
 Day20   : Write a function that takes a list of numbers and returns a new list containing only the even numbers.
+Day21   : Create a program to remove a specific element from a set.
