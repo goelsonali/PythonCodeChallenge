@@ -9,7 +9,7 @@
 
 def check_dictionary(dictionary_to_process, key_to_find):
     if dictionary_to_process and key_to_find:
-        if dictionary_to_process.get(key_to_find):
+        if key_to_find in dictionary_to_process.keys():
             return "Found the key"
         else:
             return "Couldn't find the key"
