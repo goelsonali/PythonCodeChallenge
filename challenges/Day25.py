@@ -1,3 +1,4 @@
+# Create a program to concatenate two lists.
 
 def conc_list(a, b):
     if a and b:
