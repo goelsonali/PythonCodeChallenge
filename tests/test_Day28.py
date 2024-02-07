@@ -3,6 +3,7 @@
 
 from challenges.Day28 import remove_nth_record
 
+
 # Test Cases :
 # 1. Check if the list is empty.
 # 2. Check if the nth record is valid.
