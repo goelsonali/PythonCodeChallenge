@@ -4,7 +4,7 @@
 from challenges.Day27 import sort_list_alphabetically
 
 # Test Cases :
-# 1. Check if the string is empty.
+# 1. Check if the list is empty.
 # 2. Check if the list is mixed case.
 # 4. Check if the list is lower case.
 

@@ -1,7 +1,7 @@
 # Create a program that sorts a list of strings alphabetically.
 
 # Test Cases :
-# 1. Check if the string is empty.
+# 1. Check if the list is empty.
 # 2. Check if the list is mixed case.
 # 4. Check if the list is lower case.
 
