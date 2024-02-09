@@ -23,10 +23,12 @@
 **Day20**   : Write a function that takes a list of numbers and returns a new list containing only the even numbers.<br>
 **Day21**   : Create a program to remove a specific element from a set.<br>
 **Day22**   : Create a program to find the second-largest element in a list.<br>
-**Day23**   : Write a program that checks if a key exists in a dictionary.
-**Day24**   : Write a program to remove vowels from a given string.
-**Day25**   : Create a program to concatenate two lists.
-**Day26**   : Create a program that uses a lambda function to square each element of a list.
-**Day27**   : Create a program that sorts a list of strings alphabetically.
-**Day28**   : Create a program that removes the nth element from a list.
-**Day29**   : Create a function that generates a random number between a given range.
+**Day23**   : Write a program that checks if a key exists in a dictionary.<br>
+**Day24**   : Write a program to remove vowels from a given string.<br>
+**Day25**   : Create a program to concatenate two lists.<br>
+**Day26**   : Create a program that uses a lambda function to square each element of a list.<br>
+**Day27**   : Create a program that sorts a list of strings alphabetically.<br>
+**Day28**   : Create a program that removes the nth element from a list.<br>
+**Day29**   : Create a function that generates a random number between a given range.<br>
+**Day30**   : Create a function that finds the second smallest element in a list.<br>
+**Day31**   : Create a program that checks if a given string is a valid email address.<br>
