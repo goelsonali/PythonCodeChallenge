@@ -1,5 +1,6 @@
 # Test class for Day32 challenge
-# Create a program that checks if a given string is a valid email address.
+# # Create a function that calculates the average of a list of numbers.
+
 
 from challenges.Day32 import calc_average_using_reduce, calc_average_using_sum
 
