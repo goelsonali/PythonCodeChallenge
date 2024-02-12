@@ -32,3 +32,4 @@
 **Day29**   : Create a function that generates a random number between a given range.<br>
 **Day30**   : Create a function that finds the second smallest element in a list.<br>
 **Day31**   : Create a program that checks if a given string is a valid email address.<br>
+**Day32**   : Create a function that calculates the average of a list of numbers.<br>
