@@ -34,3 +34,4 @@
 **Day31**   : Create a program that checks if a given string is a valid email address.<br>
 **Day32**   : Create a function that calculates the average of a list of numbers.<br>
 **Day33**   : Write a test case for a function that checks if a number is prime.<br>
+**Day34**   : Write a Python program to merge two dictionaries.<br>
