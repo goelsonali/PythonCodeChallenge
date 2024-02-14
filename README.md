@@ -35,3 +35,4 @@
 **Day32**   : Create a function that calculates the average of a list of numbers.<br>
 **Day33**   : Write a test case for a function that checks if a number is prime.<br>
 **Day34**   : Write a Python program to merge two dictionaries.<br>
+**Day35**   : Write a simple unit test for a function that adds two numbers
