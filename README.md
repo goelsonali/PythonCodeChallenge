@@ -37,3 +37,4 @@
 **Day34**   : Write a Python program to merge two dictionaries.<br>
 **Day35**   : Write a simple unit test for a function that adds two numbers.<br>
 **Day36**   : Write a Python program to check if two strings are anagrams. <br>
+**Day37**   :  Write a program to iterate through a dictionary and print its keys and values.<br>
