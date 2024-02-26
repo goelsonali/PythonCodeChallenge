@@ -39,3 +39,13 @@
 **Day36**   : Write a Python program to check if two strings are anagrams. <br>
 **Day37**   : Write a program to iterate through a dictionary and print its keys and values.<br>
 **Day38**   : Write a program to flatten a nested list.<br>
+**Day39**   : Write a program to find the most common words in a text file.<br>
+**Day40**   : Write a function to find the largest common divisor of two numbers using a function.<br>
+**Day41**   : Write a program that uses recursion to generate all permutations of a list.<br>
+**Day42**   : Write a program that uses a try-except block to handle division by zero.<br>
+**Day43**   : Write a program that removes all whitespaces from a given string.<br>
+**Day44**   : Write a program that reads an integer from the user and handles invalid inputs.<br>
+**Day45**   : Write a function to check if a number is a prime number.<br>
+**Day46**   : Write a function to check if a given list is sorted.<br>
+**Day47**   : Create a program that imports the math module and uses its functions.<br>
+**Day48**   : Create a program that replaces specific words in a text with their synonyms.<br>
