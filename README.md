@@ -1,6 +1,9 @@
 # PythonCodeChallenge
 ## WWCode Python 30 days code challenge
 
+*Completion Bage*
+![30 Days WWCode Days of Code 2024 Completion Badge for Participants](https://github.com/goelsonali/PythonCodeChallenge/assets/112942761/e23abf60-25b3-4f23-91a8-2a0438a206a8)
+
 **Day1**    : Write a program that swaps the values of two variables.<br>
 **Day2**    : Write a a program to calculate the area of a circle given its radius.<br>
 **Day3**    : Write a function to count the number of vowels in a given string.<br>
@@ -49,3 +52,5 @@
 **Day46**   : Write a function to check if a given list is sorted.<br>
 **Day47**   : Create a program that imports the math module and uses its functions.<br>
 **Day48**   : Create a program that replaces specific words in a text with their synonyms.<br>
+
+
